@@ -1,0 +1,19 @@
+{
+  "name": "jumpstart",
+  "version": "1.0.0",
+  "description": "Jumpstart ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloud974/Jumpstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloud974/Jumpstart/issues"
+  },
+  "homepage": "https://github.com/Cloud974/Jumpstart#readme"
+}
